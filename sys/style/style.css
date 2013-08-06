@@ -1,0 +1,30 @@
+body {margin:0px auto; text-align:center; font-size:12px;}
+td {padding:1px 3px 1px 3px;}
+a {text-decoration:none; }
+a :hover{}
+form {margin:0px;}
+.clear{clear:both;}
+
+#wrapper {width:960px; margin:0px auto; text-align:left;}
+#menu, #menu a  {margin-bottom:20px; font-size:18px; font-weight:blod; color:black}
+.menuItem              {float:left; width:100px; border:1px solid #ccc; text-align:center}
+.menuItemSelected{background-color:#FCA}
+
+
+
+/* report */
+.trTitle      {color:#222; font-weight:bold; background-color:#FCA;} 
+.tr1             {background-color:#FFF;}
+.tr2             {background-color:#DDD;} 
+.trFoot        {color:#222; font-weight:bold; background-color:#ACF;}
+.trBtn          {}
+.tdCB           {width:20px; text-align:center}
+.tdDate        {width:100px;}
+.tdItem        {width:120px;}
+.tdQuantity {width:50px; text-align:center;}
+.tdPrice      {width:60px; text-align:right;}
+.Total          {border:1px solid #ccc; width:50px;}
+.tdTotal      {width:50px; text-align:right;}
+.tdNote        {width:200px; overflow:hidden;}
+.tdBtn          {padding: 0px;}
+.Amount        {width:50px; font-weight:bold;}
